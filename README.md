@@ -31,7 +31,7 @@ Built using .NET, this app saves your to-do items in a JSON file — so your tas
 If you want to view or modify the code:
 ```bash
 # Clone the repository
-git clone https://github.com/juusosav/ToDoListApp.git
+git clone https://github.com/juusosav/todo-list-app.git
 cd ToDoListApp
 
 # Run the app
