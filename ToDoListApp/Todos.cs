@@ -2,7 +2,7 @@
 
 class Todos
 {
-	public List<string> Tasks { get; set; }
+	public List<string>? Tasks { get; set; }
 
 	public static void DisplayAll(List<string> tasks)
 	{
